@@ -1,0 +1,33 @@
+:root {
+	font-size: 62.5%;
+
+	--bg-col: #DFDFFA;
+	--fg-col: #121212;
+}
+body {
+	background-color: var(--bg-col);
+	color: var(--fg-col);
+	font-family: "Segoe UI", Tahoma, Geneva, sans-serif;
+	font-size: 1.8rem;
+	text-align: center;
+}
+h1, h2, h3 {
+	font-weight: 400;
+}
+table {
+	table-layout: fixed;
+	margin: 0 auto;
+	padding: 1rem;
+	border: 0.2rem solid #999;
+	border-collapse: collapse;
+}
+thead {
+	background-color: #3F87A6;
+	color: var(--bg-col);
+	text-transform: uppercase;
+}
+th, td {
+	padding: 1rem 2rem;
+	border: 0.2rem solid #999;
+	text-align: center;
+}
