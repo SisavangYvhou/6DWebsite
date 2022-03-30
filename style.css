@@ -1,7 +1,7 @@
 :root {
 	font-size: 62.5%;
 
-	--bg-col: #87CEEB;
+	--bg-col: #DFDFFA;
 	--fg-col: #121212;
 }
 body {
@@ -22,7 +22,7 @@ table {
 	border-collapse: collapse;
 }
 thead {
-	background-color: #87CEEB;
+	background-color: #3F87A6;
 	color: var(--bg-col);
 	text-transform: uppercase;
 }
