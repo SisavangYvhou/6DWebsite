@@ -22,7 +22,7 @@ table {
 	border-collapse: collapse;
 }
 thead {
-	background-color: #3F87A6;
+	background-color: #87CEEB;
 	color: var(--bg-col);
 	text-transform: uppercase;
 }
